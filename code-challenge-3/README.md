@@ -24,6 +24,7 @@ Git clone git@github.com:augustinemeso/CODE_CHALLENGE_3.git
 Git
 Github
 Html
+CSS
 Javascript
 
 ## Support and contact details
